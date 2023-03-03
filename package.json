@@ -29,10 +29,10 @@
     },
     "homepage": "https://github.com/pablohpsilva/axios-resources#readme",
     "peerDependencies": {
-        "axios": "^0.19.2"
+        "axios": "^1.3.4"
     },
     "mhyDependencies": {
-        "axios": "^0.19.2"
+        "axios": "^1.3.4"
     },
     "jest": {
         "coveragePathIgnorePatterns": [
